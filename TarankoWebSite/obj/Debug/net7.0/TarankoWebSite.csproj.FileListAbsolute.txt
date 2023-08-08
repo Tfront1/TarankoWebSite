@@ -21,9 +21,7 @@ C:\Users\1\Desktop\TarankoWebSite\TarankoWebSite\TarankoWebSite\obj\Debug\net7.0
 C:\Users\1\Desktop\TarankoWebSite\TarankoWebSite\TarankoWebSite\obj\Debug\net7.0\staticwebassets.pack.json
 C:\Users\1\Desktop\TarankoWebSite\TarankoWebSite\TarankoWebSite\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\1\Desktop\TarankoWebSite\TarankoWebSite\TarankoWebSite\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\1\Desktop\TarankoWebSite\TarankoWebSite\TarankoWebSite\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\1\Desktop\TarankoWebSite\TarankoWebSite\TarankoWebSite\obj\Debug\net7.0\scopedcss\bundle\TarankoWebSite.styles.css
-C:\Users\1\Desktop\TarankoWebSite\TarankoWebSite\TarankoWebSite\obj\Debug\net7.0\scopedcss\projectbundle\TarankoWebSite.bundle.scp.css
 C:\Users\1\Desktop\TarankoWebSite\TarankoWebSite\TarankoWebSite\obj\Debug\net7.0\TarankoWebSite.dll
 C:\Users\1\Desktop\TarankoWebSite\TarankoWebSite\TarankoWebSite\obj\Debug\net7.0\refint\TarankoWebSite.dll
 C:\Users\1\Desktop\TarankoWebSite\TarankoWebSite\TarankoWebSite\obj\Debug\net7.0\TarankoWebSite.pdb

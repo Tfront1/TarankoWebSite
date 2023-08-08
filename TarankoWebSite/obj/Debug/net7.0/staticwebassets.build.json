@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1PvS5Va5T9Q74In2yaqCGgXaJ+JpcaxCRllGDroccIw=",
+  "Hash": "DyBRhMR7YDzxArdymgWRQyfLyh6Mktsy/gnyufThFfI=",
   "Source": "TarankoWebSite",
   "BasePath": "_content/TarankoWebSite",
   "Mode": "Default",
@@ -16,40 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\obj\\Debug\\net7.0\\scopedcss\\bundle\\TarankoWebSite.styles.css",
-      "SourceId": "TarankoWebSite",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/TarankoWebSite",
-      "RelativePath": "TarankoWebSite.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\obj\\Debug\\net7.0\\scopedcss\\bundle\\TarankoWebSite.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TarankoWebSite.bundle.scp.css",
-      "SourceId": "TarankoWebSite",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/TarankoWebSite",
-      "RelativePath": "TarankoWebSite.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TarankoWebSite.bundle.scp.css"
-    },
     {
       "Identity": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\css\\global.css",
       "SourceId": "TarankoWebSite",
@@ -100,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\index.css"
+    },
+    {
+      "Identity": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\css\\layout.css",
+      "SourceId": "TarankoWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\",
+      "BasePath": "_content/TarankoWebSite",
+      "RelativePath": "css/layout.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\layout.css"
     },
     {
       "Identity": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\favicon.ico",

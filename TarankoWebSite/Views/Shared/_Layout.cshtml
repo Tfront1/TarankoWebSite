@@ -7,14 +7,12 @@
     <link rel="stylesheet" href="~/css/index.css" asp-append-version="true" />
 </head>
 <body>
-    <header>
+    <header class="header">
         <a asp-area="" asp-controller="Home" asp-action="Index">Logo</a>
     </header>
-    <div>
-        <main>
-            @RenderBody()
-        </main>
-    </div>
+    <main>
+        @RenderBody()
+    </main>
 
     <footer>
     </footer>

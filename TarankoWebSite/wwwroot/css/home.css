@@ -1,4 +1,9 @@
-﻿.bg-photo {
+﻿.home-page {
+    padding-left: 100px;
+    padding-top: 25vh;
+    height: 100vh;
+}
+.bg-photo {
     z-index: -9;
     position: fixed;
     top: 3%;
@@ -14,9 +19,16 @@
 .home-page__main-text1 {
     color: var(--main-text1);
     font-family: Graphik-Semibold;
+    font-size: 4.0rem;
+    font-weight: normal;
+    margin-bottom: 25px;
 }
 
 .home-page__main-text2 {
     color: var(--main-text2);
     font-family: Graphik-Semibold;
+    font-size: 4.0rem;
+    font-weight: normal;
+    margin-bottom: 25px;
 }
+

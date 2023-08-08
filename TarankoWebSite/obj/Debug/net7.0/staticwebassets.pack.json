@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TarankoWebSite.bundle.scp.css",
-      "PackagePath": "staticwebassets\\TarankoWebSite.bundle.scp.css"
-    },
-    {
       "Id": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\css\\global.css",
       "PackagePath": "staticwebassets\\css\\global.css"
     },
@@ -15,6 +11,10 @@
     {
       "Id": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\css\\index.css",
       "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\css\\layout.css",
+      "PackagePath": "staticwebassets\\css\\layout.css"
     },
     {
       "Id": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\favicon.ico",
