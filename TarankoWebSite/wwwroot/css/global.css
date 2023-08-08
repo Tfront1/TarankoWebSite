@@ -1,0 +1,23 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    scroll-behavior: smooth;
+    --body-backgroung: black;
+}
+
+.img {
+    display: block;
+    width: 100%;
+}
+
+body {
+    background-color: var(--body-backgroung);
+}
+
+a {
+    text-decoration: none;
+}
