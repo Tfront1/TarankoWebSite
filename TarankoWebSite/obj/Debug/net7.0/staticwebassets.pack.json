@@ -9,12 +9,28 @@
       "PackagePath": "staticwebassets\\css\\global.css"
     },
     {
+      "Id": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
       "Id": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\css\\index.css",
       "PackagePath": "staticwebassets\\css\\index.css"
     },
     {
       "Id": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\fonts\\Graphik-Medium.woff",
+      "PackagePath": "staticwebassets\\fonts\\Graphik-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\fonts\\Graphik-Semibold.woff",
+      "PackagePath": "staticwebassets\\fonts\\Graphik-Semibold.woff"
+    },
+    {
+      "Id": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\img\\previewPic.png",
+      "PackagePath": "staticwebassets\\img\\previewPic.png"
     },
     {
       "Id": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\js\\site.js",

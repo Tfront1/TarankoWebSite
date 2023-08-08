@@ -1,0 +1,22 @@
+﻿.bg-photo {
+    z-index: -9;
+    position: fixed;
+    top: 3%;
+    right: 0;
+    bottom: 0;
+    left: 35%;
+    background-image: url('../img/previewPic.png');
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.home-page__main-text1 {
+    color: var(--main-text1);
+    font-family: Graphik-Semibold;
+}
+
+.home-page__main-text2 {
+    color: var(--main-text2);
+    font-family: Graphik-Semibold;
+}
