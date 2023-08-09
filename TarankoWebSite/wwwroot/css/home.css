@@ -13,9 +13,12 @@
     font-family: Graphik-Semibold;
     font-size: 4.0rem;
     font-weight: normal;
+}
+.hover-div {
+    min-width: 470px;
+    border: 2px solid blue;
     margin-top: 25px;
 }
-
 .home-page__main-text2 {
     color: var(--main-text2);
 }
@@ -39,12 +42,11 @@
     opacity: 1;
 }
 .hover-annimation {
-    transition: transform 0.5s ease-in-out;
-    transform: translateX(0);
 }
-.hover-annimation:hover {
-    transition-delay: 0s;
-    transform: translateX(20px);
+.hover-annimation:hover a{
+    display: inline-block;
+    transition: transform 0.3s ease;
+    transform: translateX(30px);
 }
 
 
