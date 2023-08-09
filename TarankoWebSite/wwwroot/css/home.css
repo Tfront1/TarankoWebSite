@@ -31,5 +31,12 @@
     -webkit-background-size: cover;
     background-size: cover;
 }
+.appearance-annimation {
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+}
+.appearance {
+    opacity: 1;
+}
 
 

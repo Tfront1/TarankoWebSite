@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DyBRhMR7YDzxArdymgWRQyfLyh6Mktsy/gnyufThFfI=",
+  "Hash": "1Het4K0OA1W4V73a7k+qZIas0crcyjdNk1gLrhmwRvc=",
   "Source": "TarankoWebSite",
   "BasePath": "_content/TarankoWebSite",
   "Mode": "Default",
@@ -153,12 +153,12 @@
       "OriginalItemSpec": "wwwroot\\img\\previewPic.png"
     },
     {
-      "Identity": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\js\\home.js",
       "SourceId": "TarankoWebSite",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\",
       "BasePath": "_content/TarankoWebSite",
-      "RelativePath": "js/site.js",
+      "RelativePath": "js/home.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -167,7 +167,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\site.js"
+      "OriginalItemSpec": "wwwroot\\js\\home.js"
     }
   ]
 }
