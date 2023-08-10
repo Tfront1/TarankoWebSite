@@ -1,4 +1,4 @@
-﻿document.addEventListener("DOMContentLoaded", function () {
+﻿window.addEventListener("load", function () {
     const animatedElements = document.querySelectorAll(".appearance-annimation");
     const hoverElements = document.querySelectorAll(".hover-div");
 
