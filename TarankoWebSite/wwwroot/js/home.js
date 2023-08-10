@@ -1,6 +1,6 @@
 ﻿window.addEventListener("load", function () {
     const animatedElements = document.querySelectorAll(".appearance-annimation");
-    const hoverElements = document.querySelectorAll(".hover-div");
+    const hoverElements = document.querySelectorAll("#hover-div");
 
     animatedElements.forEach(function (element, index) {
         element.style.transitionDelay = `${index * 0.5}s`; // Затримка залежно від індексу
@@ -10,20 +10,19 @@
         element.addEventListener("transitionend", function () {
             if (index === animatedElements.length - 1) {
                 animatedElements.forEach(function (el) {
-                    el.style.transitionDelay = "0s"; // Зменшення затримки після анімації\
-                    
-                    
+                    el.style.transitionDelay = "0s"; // Зменшення затримки після анімації\     
+                });
+                hoverElements.forEach(function (elm) {
+                    elm.addEventListener("mouseover", function () {
+                        elm.classList.add("hover-annimation");
+                        changeText(elm);
+                    });
+                    elm.addEventListener("mouseout", function () {
+                        elm.classList.add("hover-annimation");
+                        resetText(elm);
+                    });
                 });
             }
-        });
-    });
-    hoverElements.forEach(function (element) {
-        element.classList.add("hover-annimation");
-        element.addEventListener("mouseover", function () {
-            changeText(element);
-        });
-        element.addEventListener("mouseout", function () {
-            resetText(element);
         });
     });
 });
@@ -38,7 +37,7 @@ function changeText(el) {
     else if (link.innerText === "Taras Taranko") {
         link.innerText = "Projects";
     }
-    else {
+    else if (link.innerText === ".NET developer") {
         link.innerText = "Contacts";   
     }  
 }
@@ -53,7 +52,7 @@ function resetText(el) {
     else if (link.innerText === "Projects") {
         link.innerText = "Taras Taranko";
     }
-    else {
+    else if (link.innerText === "Contacts") {
         link.innerText = ".NET developer";
     }
 }
