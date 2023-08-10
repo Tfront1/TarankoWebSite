@@ -1,6 +1,5 @@
 ﻿.about__container {
-    margin-right: 120px;
-    margin-left: 120px;
+    margin: 0 20vw;
 }
 .about-page__title1,
 .about-page__title2 {

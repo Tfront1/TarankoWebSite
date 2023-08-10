@@ -24,6 +24,9 @@
                 });
             }
         });
+        element.addEventListener('click', () => {
+            document.body.style.overflow = "visible";
+        });
     });
 });
 function changeText(el) {
