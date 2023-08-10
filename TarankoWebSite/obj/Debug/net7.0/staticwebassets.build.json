@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "m4Qc7KFB4Pm3v3cHVXULfSDn2TA8Np9+r7rfox83ZXo=",
+  "Hash": "HPko/Q4DGeTg86CVE9ejG0wiFJKVa+ePAhNnEwLJqZY=",
   "Source": "TarankoWebSite",
   "BasePath": "_content/TarankoWebSite",
   "Mode": "Default",
@@ -32,6 +32,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\about-me.css"
+    },
+    {
+      "Identity": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\css\\contacts.css",
+      "SourceId": "TarankoWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\",
+      "BasePath": "_content/TarankoWebSite",
+      "RelativePath": "css/contacts.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\contacts.css"
     },
     {
       "Identity": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\css\\global.css",
@@ -100,6 +117,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\layout.css"
+    },
+    {
+      "Identity": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\css\\resume.css",
+      "SourceId": "TarankoWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\",
+      "BasePath": "_content/TarankoWebSite",
+      "RelativePath": "css/resume.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\resume.css"
+    },
+    {
+      "Identity": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\css\\tittle.css",
+      "SourceId": "TarankoWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\",
+      "BasePath": "_content/TarankoWebSite",
+      "RelativePath": "css/tittle.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\tittle.css"
     },
     {
       "Identity": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\favicon.ico",
@@ -187,6 +238,23 @@
       "OriginalItemSpec": "wwwroot\\js\\about-me.js"
     },
     {
+      "Identity": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\js\\contacts.js",
+      "SourceId": "TarankoWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\",
+      "BasePath": "_content/TarankoWebSite",
+      "RelativePath": "js/contacts.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\contacts.js"
+    },
+    {
       "Identity": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\js\\home.js",
       "SourceId": "TarankoWebSite",
       "SourceType": "Discovered",
@@ -202,6 +270,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\home.js"
+    },
+    {
+      "Identity": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\js\\projects.js",
+      "SourceId": "TarankoWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\",
+      "BasePath": "_content/TarankoWebSite",
+      "RelativePath": "js/projects.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\projects.js"
+    },
+    {
+      "Identity": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\js\\resume.js",
+      "SourceId": "TarankoWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\",
+      "BasePath": "_content/TarankoWebSite",
+      "RelativePath": "js/resume.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\resume.js"
     }
   ]
 }

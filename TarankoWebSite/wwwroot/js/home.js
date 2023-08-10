@@ -4,7 +4,7 @@
     const hoverElements = document.querySelectorAll("#hover-div");
 
     animatedElements.forEach(function (element, index) {
-        element.style.transitionDelay = `${index * 0.5}s`; // Затримка залежно від індексу
+        element.style.transitionDelay = `${index * 0.3}s`; // Затримка залежно від індексу
         element.classList.add("appearance");
 
         // Очікування завершення анімації для оновлення затримки

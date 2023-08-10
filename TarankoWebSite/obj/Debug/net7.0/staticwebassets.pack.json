@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\css\\about-me.css"
     },
     {
+      "Id": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\css\\contacts.css",
+      "PackagePath": "staticwebassets\\css\\contacts.css"
+    },
+    {
       "Id": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\css\\global.css",
       "PackagePath": "staticwebassets\\css\\global.css"
     },
@@ -19,6 +23,14 @@
     {
       "Id": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\css\\layout.css",
       "PackagePath": "staticwebassets\\css\\layout.css"
+    },
+    {
+      "Id": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\css\\resume.css",
+      "PackagePath": "staticwebassets\\css\\resume.css"
+    },
+    {
+      "Id": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\css\\tittle.css",
+      "PackagePath": "staticwebassets\\css\\tittle.css"
     },
     {
       "Id": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\favicon.ico",
@@ -41,8 +53,20 @@
       "PackagePath": "staticwebassets\\js\\about-me.js"
     },
     {
+      "Id": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\js\\contacts.js",
+      "PackagePath": "staticwebassets\\js\\contacts.js"
+    },
+    {
       "Id": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\js\\home.js",
       "PackagePath": "staticwebassets\\js\\home.js"
+    },
+    {
+      "Id": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\js\\projects.js",
+      "PackagePath": "staticwebassets\\js\\projects.js"
+    },
+    {
+      "Id": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\js\\resume.js",
+      "PackagePath": "staticwebassets\\js\\resume.js"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.TarankoWebSite.Microsoft.AspNetCore.StaticWebAssets.props",
