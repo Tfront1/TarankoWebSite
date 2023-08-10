@@ -37,6 +37,10 @@
       "PackagePath": "staticwebassets\\img\\previewPic.png"
     },
     {
+      "Id": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\js\\about-me.js",
+      "PackagePath": "staticwebassets\\js\\about-me.js"
+    },
+    {
       "Id": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\js\\home.js",
       "PackagePath": "staticwebassets\\js\\home.js"
     },

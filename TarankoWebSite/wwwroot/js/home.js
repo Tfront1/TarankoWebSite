@@ -1,4 +1,5 @@
 ﻿window.addEventListener("load", function () {
+    document.body.style.overflow = "hidden";
     const animatedElements = document.querySelectorAll(".appearance-annimation");
     const hoverElements = document.querySelectorAll("#hover-div");
 
@@ -23,9 +24,6 @@
                     });
                 });
             }
-        });
-        element.addEventListener('click', () => {
-            document.body.style.overflow = "visible";
         });
     });
 });

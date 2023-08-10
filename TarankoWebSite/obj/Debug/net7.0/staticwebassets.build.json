@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7j7hLqnyQ4deUXCODyl2CoHyMixlVVbOLYCoZyUPV+0=",
+  "Hash": "m4Qc7KFB4Pm3v3cHVXULfSDn2TA8Np9+r7rfox83ZXo=",
   "Source": "TarankoWebSite",
   "BasePath": "_content/TarankoWebSite",
   "Mode": "Default",
@@ -168,6 +168,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\previewPic.png"
+    },
+    {
+      "Identity": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\js\\about-me.js",
+      "SourceId": "TarankoWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\",
+      "BasePath": "_content/TarankoWebSite",
+      "RelativePath": "js/about-me.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\about-me.js"
     },
     {
       "Identity": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\js\\home.js",
