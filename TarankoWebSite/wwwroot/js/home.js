@@ -3,8 +3,11 @@
     const animatedElements = document.querySelectorAll(".appearance-annimation");
     const hoverElements = document.querySelectorAll("#hover-div");
 
+    animatedElements.forEach(function (element) {
+        element.style.pointerEvents = 'none';
+    });
     animatedElements.forEach(function (element, index) {
-        element.style.transitionDelay = `${index * 0.3}s`; // Затримка залежно від індексу
+        element.style.transitionDelay = `${index * 0.15}s`; // Затримка залежно від індексу
         element.classList.add("appearance");
 
         // Очікування завершення анімації для оновлення затримки
@@ -14,6 +17,7 @@
                     el.style.transitionDelay = "0s"; // Зменшення затримки після анімації\     
                 });
                 hoverElements.forEach(function (elm) {
+                    
                     elm.addEventListener("mouseover", function () {
                         elm.classList.add("hover-annimation");
                         changeText(elm);
@@ -41,6 +45,7 @@ function changeText(el) {
     else if (link.innerText === ".NET developer") {
         link.innerText = "Contacts";   
     }  
+    link.style.pointerEvents = 'auto';
 }
 function resetText(el) {
     var link = el.querySelector("a");
@@ -56,4 +61,5 @@ function resetText(el) {
     else if (link.innerText === "Contacts") {
         link.innerText = ".NET developer";
     }
+    link.style.pointerEvents = 'auto';
 }

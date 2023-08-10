@@ -1,4 +1,22 @@
-﻿.container {
+﻿.logo {
+    margin-top: 20px;
+    margin-left: 20px;
+    color: var(--main-text-white);
+    font-family: Graphik-Semibold;
+    font-size: 1.8rem;
+    font-weight: normal;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    border: 3px solid var(--main-text-white);
+    border-radius: 0 0 20px 20px;
+    padding: 4px;
+}
+.header {
+    min-height: 50px;
+}
+.container {
     margin: 0 20vw;
 }
 
