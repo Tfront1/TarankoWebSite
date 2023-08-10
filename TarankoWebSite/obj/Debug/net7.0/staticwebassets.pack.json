@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\css\\about-me.css",
+      "PackagePath": "staticwebassets\\css\\about-me.css"
+    },
+    {
       "Id": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\css\\global.css",
       "PackagePath": "staticwebassets\\css\\global.css"
     },

@@ -6,8 +6,8 @@
 
 :root {
     scroll-behavior: smooth;
-    --main-text1: #ff5d36;
-    --main-text2: white;
+    --main-text-red: #ff5d36;
+    --main-text-white: white;
 }
 
 .img {

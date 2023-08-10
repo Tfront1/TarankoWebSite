@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1Het4K0OA1W4V73a7k+qZIas0crcyjdNk1gLrhmwRvc=",
+  "Hash": "7j7hLqnyQ4deUXCODyl2CoHyMixlVVbOLYCoZyUPV+0=",
   "Source": "TarankoWebSite",
   "BasePath": "_content/TarankoWebSite",
   "Mode": "Default",
@@ -16,6 +16,23 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\css\\about-me.css",
+      "SourceId": "TarankoWebSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\",
+      "BasePath": "_content/TarankoWebSite",
+      "RelativePath": "css/about-me.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\about-me.css"
+    },
     {
       "Identity": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\css\\global.css",
       "SourceId": "TarankoWebSite",
