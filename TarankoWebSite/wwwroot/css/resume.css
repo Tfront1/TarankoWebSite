@@ -1,3 +1,21 @@
 ﻿.resume-page__information_div {
     margin-top: 30px;
 }
+.resume--hover-div-margin {
+    min-width: 470px;
+    margin-top: 25px;
+}
+.resume--hover-annimation {
+}
+.resume--hover-annimation:hover a {
+    display: inline-block;
+    transition: transform 0.3s ease;
+    transform: translateX(30px);
+}
+.resume--information {
+    color: var(--main-text-red);
+    font-family: Graphik-Semibold;
+    font-size: 1.3rem;
+    font-weight: normal;
+    cursor: pointer;
+}

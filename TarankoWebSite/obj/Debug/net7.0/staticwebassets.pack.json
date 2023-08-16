@@ -37,6 +37,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\files\\CV.docx",
+      "PackagePath": "staticwebassets\\files\\CV.docx"
+    },
+    {
+      "Id": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\files\\CV.pdf",
+      "PackagePath": "staticwebassets\\files\\CV.pdf"
+    },
+    {
       "Id": "C:\\Users\\1\\Desktop\\TarankoWebSite\\TarankoWebSite\\TarankoWebSite\\wwwroot\\fonts\\Graphik-Medium.woff",
       "PackagePath": "staticwebassets\\fonts\\Graphik-Medium.woff"
     },
